@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/stephp23/m-m-express-ci/badge.svg?branch=main)](https://coveralls.io/github/stephp23/m-m-express-ci?branch=main)
